@@ -1,0 +1,20 @@
+a{
+    text-decoration: underline;/*overline underline line-through*/ 
+    text-decoration-style: dashed;
+    text-decoration-color: red;
+    color: blueviolet;
+    text-decoration-thickness:3px;
+    /*text-decoration:underline green dotted 3px*/
+    text-transform:capitalize;
+    text-shadow: 0px 0px 3px   red, 0 0 3px blue,0 0 4px darkgreen;
+
+}
+p{
+    text-indent: 50px;
+    letter-spacing: 5px; /*minus value o kaj kre*/
+    word-spacing: 5px;
+    line-height: 2; /*css a font size 16 px take*/
+    white-space: wrap;/*default value wrap take*/
+    font-family: cursive,Borel,"Times New Roman";
+    
+}
